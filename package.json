@@ -1,0 +1,23 @@
+{
+  "name": "bloop",
+  "version": "0.0.0",
+  "description": "Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phated/bloop.git"
+  },
+  "keywords": [],
+  "author": "Blaine Bublitz <blaine.bublitz@gmail.com> (https://github.com/phated)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phated/bloop/issues"
+  },
+  "homepage": "https://github.com/phated/bloop#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
