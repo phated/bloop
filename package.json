@@ -18,6 +18,14 @@
   },
   "homepage": "https://github.com/phated/bloop#readme",
   "devDependencies": {
-    "gulp": "^4.0.0"
+    "@types/node": "^9.3.0",
+    "gulp": "^4.0.0",
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "glob-stream": "^6.1.0",
+    "through2": "^2.0.3",
+    "vinyl": "^2.1.0"
   }
 }
